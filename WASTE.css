@@ -1,0 +1,47 @@
+body
+{
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(253, 220, 177);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+       
+    p{
+         font-size: 65px;
+         font-family:Helvetica;
+         margin-top: 0px;
+         width: 200px;
+    }
+
+    h1 {
+      font-size: 144px;
+      font-family: Helvetica;
+      color: grey
+    }
+
+    h2 {
+      font-size: 40px;
+      font-family: Helvetica;
+    }
+
+    h3 {
+      font-size: 100px;
+      font-family: Helvetica;
+    }
+
+    h4 {
+      font-size: 50px;
+      font-family: Helvetica;
+    }
+
+    h5 {
+      font-size: 110px;
+      font-family: 'Times New Roman', Times, serif;
+      margin-top: 0px;
+    }
+
+  
