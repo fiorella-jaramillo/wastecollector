@@ -9,39 +9,55 @@ body
     background-position: center;
 }
 
-       
+.TITLE
+{
+ width: 100%;
+ height: 20%;
+ 
+
+}
+
+.DOCUMENTATION
+{
+ width: 30%;
+ height: 200px;
+ margin: 10%;
+ background-color: rgb(167, 166, 166);
+ text-decoration: none;
+ list-style:none;
+ float: left;
+}
+
+.RECIPES
+{
+ width: 30%;
+ height: 200px;
+ margin: 10%;
+ background-color: rgb(167, 166, 166);
+ text-decoration: none;
+ list-style:none;
+ float: LEFT;
+}
+
+  
     p{
-         font-size: 65px;
+         font-size: 20px;
          font-family:Helvetica;
          margin-top: 0px;
          width: 200px;
     }
 
     h1 {
-      font-size: 144px;
+      font-size: 32px;
       font-family: Helvetica;
-      color: grey
+      color: black;
     }
 
     h2 {
-      font-size: 40px;
+      font-size: 60px;
       font-family: Helvetica;
+      color: black;
     }
 
-    h3 {
-      font-size: 100px;
-      font-family: Helvetica;
-    }
-
-    h4 {
-      font-size: 50px;
-      font-family: Helvetica;
-    }
-
-    h5 {
-      font-size: 110px;
-      font-family: 'Times New Roman', Times, serif;
-      margin-top: 0px;
-    }
 
   

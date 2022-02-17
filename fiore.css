@@ -1,0 +1,85 @@
+body
+{
+  background-color: white;
+}
+
+h1 {
+  font-size: 88px;
+  font-family: Helvetica;
+}
+ h2 {
+  font-size: 18px;
+  font-family:Helvetica;
+}
+ p {
+  font-size: 17px;
+  font-family:Helvetica;
+  text-align: justify;
+}
+
+a{
+  color: magenta
+}
+
+a:link
+{
+  color: rgb(204, 0, 255)
+}
+
+a:visited
+{
+  color: rgb(31, 194, 194)
+}
+
+a:hover
+{
+  color: rgb(0, 174, 255)
+}
+
+a:active
+{
+  color: rgb(238, 141, 222)
+}
+
+/* Dashed border */
+hr.dashed {
+border-top: 3px dashed #bbb;
+}
+/* Dotted border */
+hr.dotted {
+border-top: 3px dotted #bbb;
+}
+/* Solid border */
+hr.solid {
+border-top: 3px solid #bbb;
+}
+/* Rounded border */
+hr.rounded {
+border-top: 8px solid #bbb;
+border-radius: 5px;
+}
+
+.btn {
+background-color: #5eff00;
+font-family: Helvetica;
+border: none;
+color: rgb(0, 0, 0);
+padding: 16px 32px;
+text-align: center;
+font-size: 18px;
+margin: 4px 2px;
+opacity: 1;
+transition: 0.3s;
+letter-spacing: 7px;
+cursor: pointer;
+}
+
+.TXT
+{
+ margin-top: ;
+ margin-bottom: ;
+ margin-left: 350px;
+ margin-right: 350px;
+ min-width: 620px;
+}
+
